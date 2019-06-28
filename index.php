@@ -1,3 +1,4 @@
+<h1>Naresh pal </h1>
 <!--<?php 
 		require 'header.php';
 		require 'sidebar.php';
