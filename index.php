@@ -1,4 +1,5 @@
 <h1>Naresh pal </h1>
+<?php echo 'Naresh' ?>
 <!-- The core Firebase JS SDK is always required and must be listed first -->
 <script src="https://www.gstatic.com/firebasejs/6.2.4/firebase-app.js"></script>
 
