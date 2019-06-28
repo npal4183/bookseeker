@@ -1,12 +1,10 @@
-<h1>Naresh pal </h1>
-<?php echo 'Naresh' ?>
+
 <?php 
 		require 'header.php';
 		require 'sidebar.php';
 		
 		?>
-<main>	
-	NARESH
+<main>
 	<div id="output">
 		<!--Search output-->
 			
