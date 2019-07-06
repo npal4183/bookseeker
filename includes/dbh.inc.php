@@ -1,6 +1,6 @@
 <?php
 
-$servername = "http://saintmtct.com";
+$servername = "cp-ht-8";
 $dbuser = "saintc3e_wp";
 $dbpwd = "naresh:wp";
 $dbname = "saintc3e_naresh";
