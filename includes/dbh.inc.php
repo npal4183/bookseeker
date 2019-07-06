@@ -1,9 +1,9 @@
 <?php
 
-$servername = "sql12.freemysqlhosting.net";
-$dbuser = "sql12296957";
-$dbpwd = "1lDmsrxwwp";
-$dbname = "sql12296957";
+$servername = "http://saintmtct.com:2082";
+$dbuser = "saintc3e_wp";
+$dbpwd = "naresh:wp";
+$dbname = "saintc3e_naresh";
 
 $conn = mysqli_connect($servername, $dbuser, $dbpwd, $dbname);
 if (!$conn) {
